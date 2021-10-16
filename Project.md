@@ -60,7 +60,7 @@
 
 <div dir='ltr' align="justify">
 
-```void insert( int row, int col, int value )```
+```void insert(int row, int col, int value)```
 
 </div>
 
@@ -83,7 +83,7 @@
 
 <div dir='ltr' align="justify">
 
-```void search( int value )```
+```void search(int value)```
 
 </div>
 
@@ -94,7 +94,7 @@
 
 <div dir='ltr' align="justify">
 
-```void print( int row, int col, int value )```
+```void print(int row, int col, int value)```
 
 </div>
 
@@ -106,7 +106,7 @@
 
 <div dir='ltr' align="justify">
 
-```void print( boolean type )```
+```void print(boolean type)```
 
 </div>
 
